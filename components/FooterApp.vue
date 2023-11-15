@@ -82,7 +82,7 @@
         class="d-flex justify-end mt-12"
       >
         <v-btn
-          v-for="link in linksfoo1"
+          v-for="link in linksfoo2"
           :key="link"
           :text="link"
           variant="text"
